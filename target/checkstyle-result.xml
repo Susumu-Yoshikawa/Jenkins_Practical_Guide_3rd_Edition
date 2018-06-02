@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/dto/SampleDTO.java">
+<error line="27" column="35" severity="error" message="&apos;firstName&apos; がフィールドを隠しています。" source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="27" column="59" severity="error" message="&apos;lastName&apos; がフィールドを隠しています。" source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="61" column="49" severity="error" message="&apos;firstName&apos; がフィールドを隠しています。" source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="69" column="48" severity="error" message="&apos;lastName&apos; がフィールドを隠しています。" source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/dto/package-info.java">
+</file>
+<file name="/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/action/SampleAction.java">
+</file>
+<file name="/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/action/package-info.java">
+</file>
+<file name="/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/SampleServlet.java">
+</file>
+<file name="/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/package-info.java">
+</file>
+</checkstyle>
