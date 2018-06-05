@@ -1,6 +1,6 @@
-/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/dto/package-info.java
-/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/package-info.java
-/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/dto/SampleDTO.java
-/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/action/SampleAction.java
-/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/SampleServlet.java
-/Users/yoshikawasusumu/git/Jenkins_Practical_Guide_3rd_Edition/src/main/java/jp/gihyo/jenkinsbook/action/package-info.java
+/Users/yoshikawasusumu/.jenkins/workspace/JenkinsJOB/src/main/java/jp/gihyo/jenkinsbook/dto/SampleDTO.java
+/Users/yoshikawasusumu/.jenkins/workspace/JenkinsJOB/src/main/java/jp/gihyo/jenkinsbook/action/package-info.java
+/Users/yoshikawasusumu/.jenkins/workspace/JenkinsJOB/src/main/java/jp/gihyo/jenkinsbook/action/SampleAction.java
+/Users/yoshikawasusumu/.jenkins/workspace/JenkinsJOB/src/main/java/jp/gihyo/jenkinsbook/package-info.java
+/Users/yoshikawasusumu/.jenkins/workspace/JenkinsJOB/src/main/java/jp/gihyo/jenkinsbook/dto/package-info.java
+/Users/yoshikawasusumu/.jenkins/workspace/JenkinsJOB/src/main/java/jp/gihyo/jenkinsbook/SampleServlet.java
